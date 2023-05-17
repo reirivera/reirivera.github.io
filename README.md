@@ -1,2 +1,2 @@
 # brain-studio
-a hell hole
+website for a pop up shop. 
